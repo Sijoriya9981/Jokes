@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+body{
+    font-family: 'Heebo', sans-serif;
+    background-color: #cfcfcf;
+}
+#par
+{
+    padding: 13px 0px;
+}
+#par li{
+    list-style: none;
+    padding: 1px 1px;
+}
